@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/********************** Task2 - Simple Calculator **************************/
 bool calculateAgain()
 {
     bool endFunc = false;
